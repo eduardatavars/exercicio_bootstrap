@@ -1,0 +1,31 @@
+
+header {
+    background-color: #3B4856;
+    padding: 2px;
+    color: #fff;
+    position: sticky;
+    top: 0;
+    left: 0;
+    z-index: 1;
+}
+
+.container {
+    max-width: 1024px;
+    width: 100%;
+    margin: 0 auto;
+    
+}
+
+span {
+    color: #99b2cc;
+}
+
+header a, li {
+    text-decoration: none;
+    list-style: none;
+    color: #99b2cc;
+}
+
+.form {
+    padding: 18px;
+}
